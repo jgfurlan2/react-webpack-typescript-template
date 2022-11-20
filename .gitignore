@@ -1,0 +1,11 @@
+/.idea
+/.vscode
+/.yarn/cache
+/.yarn/install-state.gz
+/coverage
+**/node_modules
+**/__legacy__
+**/dist
+
+**/.env*
+!**/.env.example
